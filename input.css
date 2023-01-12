@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@tailwind base;
+@tailwind components;
+
+@tailwind utilities;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.btn-color{
+    background-color: #fffc00;
+}
+
+.myfont{
+    font-family: 'Prompt',sans-serif;
+}
+
+.mainht{
+    height: 82vh;;
+}
+
+
